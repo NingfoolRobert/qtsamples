@@ -1,0 +1,10 @@
+-I/usr/include/qt4
+-I/usr/include/qt4/QtGui
+-I/usr/include/qt4/QtCore
+-I/home/media/books/src/chap02/find/build
+-DQT_NO_DEBUG
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-o
+/home/media/books/src/chap02/find/build/moc_finddialog.cxx
+/home/media/books/src/chap02/find/finddialog.h

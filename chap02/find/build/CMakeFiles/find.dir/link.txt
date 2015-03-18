@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/find.dir/finddialog.o CMakeFiles/find.dir/main.o CMakeFiles/find.dir/moc_finddialog.o  -o find -rdynamic -lQtGui -lQtCore 
